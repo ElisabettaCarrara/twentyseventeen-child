@@ -10,7 +10,7 @@ Tags: child theme
 
 == Description ==
 
-A blank child theme for Twenty Seventeen. 
+A twenty seventeen child theme adding a full width page template.
 
 For more information about Twenty Seventeen please go to https://codex.wordpress.org/Twenty_Seventeen.
 
